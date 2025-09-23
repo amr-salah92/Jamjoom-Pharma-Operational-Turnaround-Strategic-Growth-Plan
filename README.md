@@ -26,6 +26,9 @@ The following data, extracted from operational dashboards, forms the baseline fo
 | | Campaigns Profit | 681.87 M | **Strength:** Marketing investments are highly effective. |
 | | Approval Cycle Length | 15 days | **Opportunity:** Streamlining can accelerate time-to-revenue. |
 
+
+![Screenshot_23-9-2025_141217_chat deepseek com](https://github.com/user-attachments/assets/715b2ab4-1575-4410-98a0-ff21ada9f35b)
+
 ---
 
 ### **2. Recommended KPI Targets & Gap Analysis**
@@ -42,6 +45,10 @@ The following targets are adopted from the industry framework and tailored for J
 
 **Rationale:** Fixing fulfillment and reducing losses is not an optimization—it is a survival imperative. This directly recovers lost revenue and protects profit.
 
+![Screenshot_23-9-2025_14152_chat deepseek com](https://github.com/user-attachments/assets/96677c6e-aabb-4324-85bf-4ca8cc7859af)
+
+
+
 #### **2.2. Growth & Commercial Excellence**
 
 | Metric | Current Baseline | Recommended Target ("Good") | Gap & Priority |
@@ -52,6 +59,8 @@ The following targets are adopted from the industry framework and tailored for J
 | **Approval Cycle Time** | 15 days | **Reduce by 20% YoY (to ~12 days)** | **MEDIUM** (Improve agility) |
 
 **Rationale:** The commercial engine is strong. Targets should focus on sustaining growth with greater efficiency.
+
+![Screenshot_23-9-2025_141359_chat deepseek com](https://github.com/user-attachments/assets/be7abbb1-a73f-4ecb-ab50-680e5741cb84)
 
 ---
 
