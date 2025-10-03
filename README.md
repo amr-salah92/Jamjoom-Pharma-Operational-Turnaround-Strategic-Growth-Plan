@@ -26,8 +26,7 @@ The following data, extracted from operational dashboards, forms the baseline fo
 | | Campaigns Profit | 681.87 M | **Strength:** Marketing investments are highly effective. |
 | | Approval Cycle Length | 15 days | **Opportunity:** Streamlining can accelerate time-to-revenue. |
 
-
-![Screenshot_23-9-2025_141217_chat deepseek com](https://github.com/user-attachments/assets/715b2ab4-1575-4410-98a0-ff21ada9f35b)
+<img width="1460" height="812" alt="23567097834" src="https://github.com/user-attachments/assets/3f66f874-1e6f-4b76-8320-5922e8a94de1" />
 
 ---
 
