@@ -27,6 +27,9 @@ The following data, extracted from operational dashboards, forms the baseline fo
 | **Commercial Execution** | Campaign Conversion Rate | 4.65% | **Strength:** Above typical HCP engagement benchmarks, indicating effective marketing messaging. |
 | | Campaigns Profit | 681.87 M | **Strength:** Marketing investments are highly effective and provide a clear model for scalable growth. |
 | | Approval Cycle Length | 15 days | **Opportunity:** Streamlining can accelerate time-to-revenue and improve commercial agility. |
+---
+
+<img width="1460" height="812" alt="23567097834" src="https://github.com/user-attachments/assets/3f66f874-1e6f-4b76-8320-5922e8a94de1" />
 
 ---
 
@@ -46,6 +49,8 @@ The following targets are adopted from industry frameworks and tailored for Jamj
 
 **📌 Strategic Rationale:** Fixing fulfillment and reducing losses is not an optimization—it is a **survival imperative**. Improving fulfillment from 37% to 80% would capture billions in currently lost revenue, while loss reduction flows directly to the bottom line.
 
+![Screenshot_23-9-2025_14152_chat deepseek com](https://github.com/user-attachments/assets/96677c6e-aabb-4324-85bf-4ca8cc7859af)
+
 ### 2.2. Growth & Commercial Excellence
 
 *Why we focus on these metrics: The commercial engine is strong. These metrics focus on sustaining growth with greater efficiency and market leadership.*
@@ -58,6 +63,9 @@ The following targets are adopted from industry frameworks and tailored for Jamj
 | Approval Cycle Time | 15 days | Reduce by 20% YoY (to ~12 days) | **MEDIUM** (Improve agility) |
 
 **📌 Strategic Rationale:** With a strong foundation, we can now optimize for efficiency and market leadership. These targets leverage our existing commercial strengths while addressing friction points.
+
+
+![Screenshot_23-9-2025_141359_chat deepseek com](https://github.com/user-attachments/assets/be7abbb1-a73f-4ecb-ab50-680e5741cb84)
 
 ---
 
@@ -116,11 +124,3 @@ The following targets are adopted from industry frameworks and tailored for Jamj
 2.  **Launch** the "Fulfillment Stabilization" sprint within 7 days with defined charter and team
 3.  **Commission** a detailed financial model to quantify exact revenue upside from improving fulfillment rates
 4.  **Initiate** the 30-day expiry audit across all warehouses and key distributors starting [Date]
-
-
-<img width="1460" height="812" alt="23567097834" src="https://github.com/user-attachments/assets/3f66f874-1e6f-4b76-8320-5922e8a94de1" />
-
-![Screenshot_23-9-2025_14152_chat deepseek com](https://github.com/user-attachments/assets/96677c6e-aabb-4324-85bf-4ca8cc7859af)
-
-
-![Screenshot_23-9-2025_141359_chat deepseek com](https://github.com/user-attachments/assets/be7abbb1-a73f-4ecb-ab50-680e5741cb84)
